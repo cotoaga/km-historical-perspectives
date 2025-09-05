@@ -36,6 +36,12 @@ Constitutional AI (Bai et al., 2022; Anthropic, 2023) extends this further, teac
 
 Wei et al. (2022) documented "emergent abilities" in large language models—capabilities that appear suddenly at scale, unpredicted from smaller models. These aren't programmed; they emerge from the learning process itself, suggesting AI systems develop cognitive capabilities through processes we don't fully control or understand.
 
+## The Deskilling Documentation: Technology Dominance Effects
+
+The evidence for cognitive atrophy is overwhelming. Sutton et al. (2018) provide clinical documentation of what they term "technology dominance effects"—the systematic degradation of human capability through AI reliance: "Technology dominance effects can result in poorer decision making as the user becomes dominated by the technology... experienced users steadily lose confidence and deskilling effects are often present."
+
+This isn't a bug—it's the feature. The "Google effect" represents the systematic externalization of cognitive functions to machines. We're not being augmented; we're being hollowed out, one cognitive capability at a time.
+
 ## The Feedback Loop: Co-Evolution in Progress
 
 Most disturbing is the evidence from Dotan et al. (2024) on human-AI feedback loops: "AI systems amplify biases, which are further internalized by humans, triggering a snowball effect." We're not just teaching AI to think like us—we're beginning to think like AI thinks we think.

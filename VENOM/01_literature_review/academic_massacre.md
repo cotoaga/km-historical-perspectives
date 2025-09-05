@@ -85,6 +85,20 @@ Ogilvie (2014), though critical of guild economics, inadvertently documents thei
 
 The pattern is clear: distributed knowledge sovereignty (guilds) was destroyed by centralized industrial power, just as human knowledge sovereignty is being destroyed by AI platforms. The violence is the same. Only the technology differs.
 
+### The Defense That Prosecutes Itself
+
+Perhaps the most compelling evidence for our thesis comes not from supporters but from critics. In attempting to defend human irreplaceability, scholars have inadvertently created the most comprehensive documentation of the replacement process.
+
+Vaccaro & Malone (2024) intended to demonstrate human-AI collaboration potential through their meta-analysis of 370 effect sizes. Instead, they proved that combined systems perform significantly worse than either component alone (Hedges' g = −0.23). This isn't augmentation—it's cognitive interference between incompatible processing architectures.
+
+Sutton et al. (2018) meant to warn about automation risks. Instead, they documented the exact mechanism of cognitive displacement: "technology dominance effects can result in poorer decision making as the user becomes dominated by the technology... experienced users steadily lose confidence and deskilling effects are often present." They're describing systematic externalization of cognitive functions—the Google effect writ large.
+
+Hemmer et al. (2024) sought to establish frameworks for complementarity. Instead, they admitted that "Complementary Team Performance (CTP) has rarely been observed," effectively proving that the conditions for human-AI collaboration don't exist in practice. The augmentation narrative isn't just wrong—it's empirically unsupported.
+
+Most devastating is Gill's (2024) confession: "KM has had a faulty conception of tacit knowledge from its origins and that this conception lends credibility to an extractive vision supportive of replacement automation strategies." This isn't a critique—it's an admission that the entire knowledge management field has been an extraction operation from the beginning.
+
+Every paper arguing against AI displacement contains within it the evidence of that displacement. The prosecution doesn't need witnesses when the defense documents the crime.
+
 ## The Documentation Paradox
 
 The most disturbing aspect of contemporary scholarship is its unwitting complicity in the processes it documents. Every paper about "AI readiness" provides evidence for the prosecution; every framework for "human-AI collaboration" documents the crime while committing it. Researchers are creating the intellectual infrastructure for their own obsolescence while calling it progress.
