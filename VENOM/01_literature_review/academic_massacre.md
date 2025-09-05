@@ -39,6 +39,18 @@ The medieval guild system provides the historical template for understanding con
 
 The difference lies in scale and sophistication. Medieval guilds controlled specific trades; contemporary "cognitive guilds" control entire ways of thinking. The AILit Framework doesn't just standardize curriculum—it standardizes consciousness itself, ensuring that future generations think in ways that complement rather than compete with artificial intelligence.
 
+## The Snowden Foundation: Twenty Years of Prophetic Warning
+
+Dave Snowden has been documenting this catastrophe in slow motion for over two decades. His 2002 identification of the knowledge paradox—"Knowledge is seen paradoxically, as both a thing and a flow requiring diverse management approaches"—anticipated the extraction problem years before SECI dominance, decades before AI displacement attempts.
+
+The progression of his work reads like a disaster timeline written in advance. The Harvard Business Review award-winning Cynefin framework (Snowden & Boone, 2007) provided the diagnostic tool that explains contemporary AI failures: treating complex problems (requiring emergent navigation) as complicated problems (solvable through expert analysis). The European Commission's adoption of his crisis management framework (Snowden & Rancati, 2021) represents institutional validation at continental scale—the EU officially recognizes that complex systems require different approaches than complicated ones.
+
+Most prescient is his recent distinction between "artificial intelligence" and "artificial inference" (Snowden, 2024), identifying AI's fundamental limitation before mainstream recognition: systems perform pattern matching on extracted data (inference) rather than navigating genuine complexity (intelligence). His warnings about AI-induced "cognitive atrophy" (2025) directly predict the skill erosion we document in contemporary organizations.
+
+Snowden's SenseMaker platform, described by Van der Merwe et al. (2019) as "distributed ethnography that transfers interpretation from researchers to participants through self-signification," represents the anti-extraction alternative. Instead of extracting tacit knowledge for centralized processing, SenseMaker preserves it within knowledge-holding communities. This proves preservation was always possible—organizations chose extraction for ideological, not technical reasons.
+
+The theoretical foundation already exists, has mainstream institutional adoption, and predicted contemporary disasters with remarkable accuracy. We're not discovering new problems—we're documenting the fulfillment of Snowden's warnings.
+
 ## The Resistance Literature: Academic Limitations
 
 Even the most critical scholarship remains trapped within Phase One thinking—analyzing the phenomenon while participating in it, documenting the problem while benefiting from systems that create it. Academic resistance is constrained by professional requirements: peer review, institutional affiliation, publication pressures, and career advancement all depend on maintaining relationships with the very systems being critiqued.
