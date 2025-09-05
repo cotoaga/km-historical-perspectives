@@ -71,6 +71,20 @@ Most disturbing is the feedback loop evidence (Dotan et al., 2024): humans and A
 
 The scholars document this without grasping its implications. They celebrate "alignment" without recognizing it as cognitive colonization. They optimize "human-like reasoning" without asking what happens when machines think like humans who've been trained to think like machines.
 
+### Historical Precedent: The Guild System Destruction
+
+The current AI-driven knowledge crisis has historical precedent. De la Croix et al. (2018) demonstrate that medieval guilds operated superior knowledge management systems, achieving knowledge transmission that transcended kinship boundaries—creating true learning networks that maintained cognitive diversity.
+
+These weren't primitive craft associations. As Merges (2004) documents, guilds functioned as sophisticated "appropriability institutions," creating balanced systems of knowledge sharing and protection that prefigured modern intellectual property law. They maintained what Alfonso (2025) calls "role-based access control," with apprentices, journeymen, and masters accessing different knowledge levels through earned progression.
+
+The critical insight comes from Epstein (1998): guilds "disappeared not through adaptive failure but because national states abolished them by decree." This wasn't economic evolution—it was political revolution. Guilds were destroyed not because they failed but because they succeeded too well at maintaining worker knowledge sovereignty.
+
+The parallel to current AI displacement is exact. As Daunton documents, guild workers viewed industrialization as "unconstitutional expropriation of the 'mystery' or property of the trade." They recognized their craft knowledge as property being stolen. Today's knowledge workers undergoing "digital transformation" face identical expropriation—their expertise extracted, documented, and fed to AI systems that will replace them.
+
+Ogilvie (2014), though critical of guild economics, inadvertently documents their sophisticated knowledge control mechanisms. Her critique reveals not inefficiency but effective knowledge sovereignty that threatened emerging industrial capitalism. The guilds had to be destroyed precisely because they maintained worker control over cognitive means of production.
+
+The pattern is clear: distributed knowledge sovereignty (guilds) was destroyed by centralized industrial power, just as human knowledge sovereignty is being destroyed by AI platforms. The violence is the same. Only the technology differs.
+
 ## The Documentation Paradox
 
 The most disturbing aspect of contemporary scholarship is its unwitting complicity in the processes it documents. Every paper about "AI readiness" provides evidence for the prosecution; every framework for "human-AI collaboration" documents the crime while committing it. Researchers are creating the intellectual infrastructure for their own obsolescence while calling it progress.
