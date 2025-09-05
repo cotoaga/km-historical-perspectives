@@ -21,6 +21,18 @@ Bankins et al. (2025) provide quantitative evidence of what can only be called S
 
 What the authors cannot acknowledge—what their institutional position prevents them from recognizing—is that they are documenting the successful domestication of human intelligence. Students are learning to measure their worth by their compatibility with artificial systems, optimizing themselves for seamless integration with the technologies designed to eliminate their roles. The paper celebrates this as "employability enhancement" while providing clinical documentation of cognitive surrender.
 
+## The SECI Lie: How Knowledge Management Built Itself on Misunderstanding
+
+Grant (2007) exposes the foundational crime of knowledge management: Nonaka and Takeuchi fundamentally misunderstood Polanyi when creating the SECI model. As Grant demonstrates, Polanyi viewed all knowledge as having irreducible tacit components along a continuum, not as convertible categories.
+
+The killer insight from Polanyi himself devastates the extraction narrative: "For just as, owing to the ultimately tacit nature of all our knowledge, we remain ever unable to say all that we know, so also, in view of the tacit character of meaning, we can never quite know what is implied in what we say."
+
+Translation: Tacit knowledge CANNOT be fully converted to explicit. Yet Nonaka built an entire industry on claiming it could. This wasn't innocent error—it was the necessary lie for extraction to seem possible.
+
+The most damning evidence comes from Mooradian (2024), who provides what amounts to a signed confession: "The faulty conception of tacit knowledge is found in its original absorption into KM by pioneers such as Nonaka and Takeuchi (1995). They held a conception in which tacit knowledge could be converted, in whole or part, into explicit knowledge. Such a conception, however, supports an extraction/automation vision."
+
+This isn't critique—it's admission of guilt. The entire knowledge management field was designed from inception to extract worker knowledge for capital advantage. The "faulty conception" wasn't theoretical error; it was deliberate misunderstanding necessary to justify cognitive strip-mining. After thirty years of documented failure, they finally confess the extractive agenda while continuing to pursue it.
+
 ## The Historical Pattern: Guilds and Cognitive Control
 
 The medieval guild system provides the historical template for understanding contemporary developments. Guilds ostensibly preserved and transmitted craft knowledge while actually constraining innovation to protect established hierarchies. Contemporary academic disciplines function similarly—they appear to advance knowledge while actually managing it, ensuring that transformative insights remain safely contained within institutional boundaries.
