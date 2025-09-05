@@ -45,6 +45,18 @@ These scholars document the complexity without acknowledging the crime. They cel
 
 The recovery efforts themselves prove the thesis: we have systematically destroyed cognitive diversity and now require archaeological expeditions to remember what knowing could mean.
 
+### The Cynefin Diagnosis: Why Vectors Keep Falling Off Cliffs
+
+Snowden's Cynefin framework, initially developed for knowledge management, has become the diagnostic tool for understanding systematic organizational failure in the AI age (Snowden & Boone, 2007). The framework's distinction between complicated and complex domains reveals why our vectorized knowledge workers consistently fail when confronting contemporary challenges.
+
+Kempermann (2017) applied Cynefin to biomedical research, identifying the "cliff"—the catastrophic boundary between simple and chaotic domains. His warning resonates beyond medicine: "It is better to err on the more demanding side and re-categorize downwards than to 'fall from the cliff'." Yet organizations consistently make the opposite error, treating complex challenges as merely complicated, applying expert-driven solutions where emergent practices are required.
+
+Recent applications to AI integration (Morisse, 2024) demonstrate that this domain confusion accelerates with automation. Organizations assume AI can handle "complicated" tasks, not recognizing that most meaningful work exists in the complex domain—requiring the very cognitive capabilities (phronesis, metis, nous) that we've systematically eliminated from education.
+
+The educational sector provides the most damning evidence. Despite clear analysis showing "education isn't complicated, it's complex" (Weaving Futures, n.d.), we continue applying complicated-domain solutions: standardized curricula, measurable outcomes, best practices. We're training vectors for complicated work while reality demands spheres capable of navigating complexity.
+
+Cynefin doesn't just describe the problem—it reveals the mechanism. By collapsing cognitive diversity into four DIKW categories, we've created workers optimized for only one of Cynefin's five domains. When they encounter complexity, chaos, or disorder, they don't just fail—they fall off the cliff.
+
 ## The Documentation Paradox
 
 The most disturbing aspect of contemporary scholarship is its unwitting complicity in the processes it documents. Every paper about "AI readiness" provides evidence for the prosecution; every framework for "human-AI collaboration" documents the crime while committing it. Researchers are creating the intellectual infrastructure for their own obsolescence while calling it progress.
