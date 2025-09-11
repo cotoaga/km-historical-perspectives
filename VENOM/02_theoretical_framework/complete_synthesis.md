@@ -100,3 +100,14 @@ Greek categories mapped through Cynefin domains analyzed via Collins taxonomy re
 - **Community knowledge** that requires authentic participation (CTK)
 
 Collins didn't just describe tacit knowledge—he mapped the unconquerable territories. The revolution already won. We need only claim our inheritance.
+
+## Empirical Validation from Organizational Failures (2023-2025)
+
+The theoretical framework isn't speculation—it's forensically proven through systematic analysis of organizational catastrophes:
+
+- **Boeing (Complicated → Complex)**: Treated safety as engineering problem, lacking phronesis for human factors. Result: 346 deaths, $87B losses
+- **Wells Fargo (Simple → Chaotic)**: Applied metrics to ethics, missing sophia and contextual judgment. Result: $3B penalties
+- **Digital Transformations (Complicated thinking in Complex domain)**: 70% failure rate, $900B losses from missing metis and nous
+- **AI Implementations (Algorithmic solutions to adaptive challenges)**: Systematic failures from lacking practical wisdom
+
+Source: Comprehensive analysis of organizational failures 2023-2025 (see references)
