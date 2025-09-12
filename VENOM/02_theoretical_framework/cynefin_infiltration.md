@@ -98,3 +98,29 @@ Reconstruction protocols that develop authentic complex-domain navigation—comf
 The Greeks knew these as phronesis (practical wisdom for complex domains), metis (cunning intelligence for chaotic situations), and nous (intuitive grasp for disorder navigation). Contemporary organizations desperately need these capabilities but don't know how to develop them because their educational systems eliminated the infrastructure for their cultivation.
 
 Cynefin thus serves as bridge between ancient wisdom and contemporary necessity, providing both diagnostic clarity and reconstruction roadmap for cognitive sovereignty recovery.
+
+### The Strategic AI Collaboration Framework
+
+Understanding Cynefin domains enables strategic collaboration with AI systems rather than unconscious competition. AI excels in simple and complicated domains while humans remain irreplaceable in complex and chaotic domains—recognizing this distinction enables conscious partnership:
+
+**Simple Domain AI Integration**: 
+- AI handles rule-based processing while humans focus on exception recognition
+- Automated best practices implementation with human oversight for context changes
+- Clear division: AI executes, humans adapt when rules no longer apply
+
+**Complicated Domain AI Collaboration**:
+- AI provides data analysis and pattern recognition; humans provide expert judgment
+- Machine learning identifies correlations; human expertise determines causation
+- AI accelerates research; humans synthesize insights and strategic implications
+
+**Complex Domain Human Sovereignty**:
+- AI cannot navigate emergent properties or unprecedented situations
+- Human capabilities remain essential: phronesis, contextual judgment, relationship navigation
+- Collaborative intelligence: AI provides information, humans provide wisdom
+
+**Chaotic Domain Human Leadership**:
+- Crisis situations require intuitive response and adaptive leadership
+- AI lacks the embodied intelligence (metis) necessary for rapid environmental adaptation
+- Human decision-making under uncertainty cannot be algorithmically replicated
+
+This framework prevents the common error of applying AI solutions to domains requiring human cognition while leveraging AI effectiveness where appropriate. The goal is conscious complementarity, not unconscious replacement.
