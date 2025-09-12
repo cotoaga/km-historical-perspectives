@@ -76,6 +76,10 @@ The empirical evidence establishes direct causation between Greek cognitive cate
 
 Every analyzed failure (n=100+) maps to specific missing Greek categories that educational systems systematically eliminated. This is not correlation but direct causation through cognitive architecture deficits.
 
-The organizational cliff-falls will continue until the cognitive categories are restored. The bridge between Greek wisdom and Cynefin navigation is not theoretical—it's empirically proven through the systematic analysis of organizational catastrophe. 
+The organizational cliff-falls will continue until the cognitive categories are restored. The bridge between Greek wisdom and Cynefin navigation is not theoretical—it's empirically proven through the systematic analysis of organizational catastrophe.
+
+This cognitive diversity wasn't arbitrary plurality—it represented sophisticated domain recognition. As Menn (1992) demonstrates, even single categories like nous contained multiple contested forms, each addressing different aspects of reality. The fierce debates between Plato and Aristotle over cognitive boundaries reveal not confusion but precision—they could perceive distinctions that modern frameworks cannot even articulate.
+
+The DIKW pyramid, by contrast, represents what Conversational Leadership (2025) identifies as an "overly simplistic" model that "does not reflect how knowledge is created and shared." This isn't evolution but epistemic amnesia—the systematic forgetting of cognitive capabilities essential for navigating complex realities. 
 
 The choice is stark: restore cognitive complexity or accept systematic failure as organizational destiny.

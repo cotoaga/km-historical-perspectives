@@ -33,10 +33,10 @@ The reduction is not simplification. It is lobotomy.
 
 ## The Mathematical Proof of Cognitive Collapse
 
-Greek categories identified: 17+ (depending on source and period)
-Modern DIKW categories: 4
-Reduction ratio: 76.5% minimum
-Cognitive diversity lost: Incalculable
+Greek categories: Disputed (15-20+), with subspecies within each
+Modern DIKW categories: 4 (uncontested)
+Reduction: From "too many to count" to "too few to matter"
+What was lost: Not just categories but the capacity to perceive distinctions
 
 ### The Living Proof: Educational Architecture as Cognitive Archaeology
 
