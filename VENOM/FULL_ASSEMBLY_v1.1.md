@@ -145,7 +145,7 @@ This isn't merely academic history. It's strategic intelligence about what we ne
 
 #### The Domain Confusion Disaster
 
-Snowden's Cynefin framework provides the diagnostic tool for understanding why vectorized knowledge workers fail so catastrophically in contemporary organizations. The framework distinguishes five domains—simple, complicated, complex, chaotic, and disorder—each requiring fundamentally different types of knowledge and response strategies (Snowden & Boone, 2007).
+Snowden's Cynefin framework provides the diagnostic tool for understanding why vectorized knowledge workers fail so catastrophically in contemporary organizations. The framework distinguishes five domains — clear, complicated, complex, chaotic, and disorder—each requiring fundamentally different types of knowledge and response strategies (Snowden & Boone, 2007).
 
 The critical distinction lies between complicated and complex:
 - **Complicated**: Knowable through analysis, solvable by experts, reducible to best practices
