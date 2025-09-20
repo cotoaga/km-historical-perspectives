@@ -47,6 +47,23 @@ Place all 6 images as a single figure at the beginning, arranged as:
 - Consider adding subtle grid lines to emphasize dimensional collapse
 
 ---
+Paper Structure and Stakes
+
+This paper performs an archaeological excavation of cognitive standardization, tracing how three centuries of "progress" systematically reduced human thinking to machine-compatible formats. Our argument unfolds in seven movements:
+
+Section II: The Greek Inheritance examines what we lost—not through romantic nostalgia but through forensic analysis. When seventeen authors struggle to categorize what Aristotle knew intuitively (Mouzala et al., 2024), we're not witnessing scholarly progress but dimensional collapse. We map these lost categories onto Snowden's Cynefin framework, revealing how modern education creates systematic incompetence in 60% of decision-making domains.
+
+Section III: The Architecture of Extraction dissects the three-phase mechanism that created our current crisis. Phase One (1750-1920) saw guild knowledge decomposed into industrial tasks. Phase Two (1920-1999) rebuilt human cognition around these fragments. Phase Three (1999-present) standardized and exported this poverty globally through Bologna. This isn't metaphor—we provide documentary evidence from the architects themselves.
+
+Section IV: The Confession Literature presents evidence from education reformers, management consultants, and platform designers who documented their own cognitive strip-mining operations. These aren't hidden conspiracies but published best practices, peer-reviewed papers, and celebrated case studies. They wrote instruction manuals for intellectual capitalism and called it quality assurance.
+
+Section V: The Cynefin Diagnosis applies Snowden's framework as a diagnostic tool, revealing why "best practices" cause systematic failure in complex domains. When every problem looks Clear or Complicated, Complex and Chaotic challenges become existentially threatening. We demonstrate how this creates not just incompetence but active harm when simplified solutions meet irreducible complexity.
+
+Section VI: Historical Precedent examines the guild system's destruction as template and warning. Medieval guilds maintained knowledge sovereignty through social embedding—wisdom that couldn't be extracted without destroying its value. Their elimination wasn't progress but precedent for our current extraction.
+
+Section VII: Reconstruction Protocols proposes resistance strategies—not through Luddite rejection but through developing uniquely human capabilities that resist prompt-based extraction. We identify cognitive territories that remain fundamentally uncolonizable: embodied knowledge, social wisdom, aesthetic judgment, and ethical reasoning embedded in lived experience.
+
+---
 
 ## Citation Notes for Next Draft
 
