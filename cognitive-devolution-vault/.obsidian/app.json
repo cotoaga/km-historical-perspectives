@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "01-assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-manuscript",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false
+}

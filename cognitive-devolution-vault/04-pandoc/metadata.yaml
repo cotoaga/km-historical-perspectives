@@ -1,0 +1,16 @@
+documentclass: article
+classoption:
+  - 11pt
+  - letterpaper
+geometry:
+  - margin=1in
+fontfamily: libertinus
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[L]{Cognitive Devolution}
+  \fancyhead[R]{\thepage}
+  \usepackage{setspace}
+  \doublespacing
+  \usepackage{graphicx}
+  \usepackage{float}

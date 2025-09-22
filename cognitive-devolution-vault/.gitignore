@@ -1,0 +1,8 @@
+03-output/*.pdf
+merged-paper.md
+.obsidian/workspace*
+.obsidian/cache
+.DS_Store
+*.tmp
+*.bak
+*~
