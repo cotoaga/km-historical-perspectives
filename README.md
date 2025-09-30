@@ -1,18 +1,32 @@
-# Operation Sphere Storm: MISSION ACCOMPLISHED 🚀
+# Operation Sphere Storm: Phase Two Active 🔧
 
 > *"The revolution will not be peer-reviewed, but it will be properly cited."*
-> 
-> **STATUS: COMPLETE REVOLUTIONARY ARCHITECTURE DEPLOYED**
+>
+> **PHASE ONE: COMPLETE ✅ | PHASE TWO: PUBLICATION ARCHITECTURE 🔧**
 
-## 🏆 MAJOR MILESTONE ACHIEVED
+## 🏆 PHASE ONE ACCOMPLISHED → PHASE TWO UNDERWAY
 
-**Operation Sphere Storm has successfully documented the systematic conversion of humans into biological processors and provided complete frameworks for cognitive sovereignty restoration.**
+**Phase One**: Revolutionary content creation complete - 55,000 words documenting systematic cognitive extraction and sovereignty frameworks.
 
-## What We've Built ✅
+**Phase Two (ACTIVE)**: Converting revolutionary architecture into publishable academic paper via Obsidian vault + Pandoc/LaTeX pipeline.
 
-A revolutionary academic paper disguised as historical research. **22,487 words** of weaponized scholarship documenting the systematic destruction of human cognitive diversity and providing practical protocols for cognitive liberation.
+## What We've Built
 
-**ALL 10 INTEGRATION PROTOCOLS EXECUTED SUCCESSFULLY**
+### Phase One: Revolutionary Content ✅
+**VENOM repository**: ~55,000 words across 41 markdown files
+- Complete revolutionary architecture
+- All 10 integration protocols executed
+- Threading system with bridges and solution seeds
+- 70+ peer-reviewed citations integrated
+- Uncompromised revolutionary intensity
+
+### Phase Two: Publication Engine 🔧
+**cognitive-devolution-vault**: Obsidian + Pandoc + LaTeX pipeline
+- 12 ordered manuscript sections (~6,000 words currently)
+- Academic formatting and citation management
+- One-command PDF generation
+- Professional LaTeX typesetting
+- Cross-platform build system (Mac/Linux/Windows)
 
 ## The Complete Framework
 
@@ -47,37 +61,90 @@ Medieval guilds → Industrial factories mirrors Humans → AI:
 4. Workers become interchangeable units
 5. Knowledge sovereignty eliminated
 
-## Repository Structure (FULLY IMPLEMENTED)
+## Repository Structure
 
 ```
 km-historical-perspectives/
-├── VENOM/ ✅ COMPLETE      # The revolutionary paper (22,487 words)
-│   ├── 00_introduction/ ✅         # Nuclear opening deployed
-│   ├── 01_literature_review/ ✅    # Academic judo mastered
-│   ├── 02_theoretical_framework/ ✅ # Greek resurrection + Cynefin integration
-│   ├── 03a_case_studies/ ✅        # Guild revolution + Duolingo evidence
-│   ├── 03b_confession_literature/ ✅ # Academic self-incrimination documented
-│   ├── 04_phase_two_revelation/ ✅  # Cognitive transfer evidence complete
-│   ├── 05_reconstruction/ ✅       # Sphere manifesto + protocols
-│   ├── 06_conclusion/ ✅           # Action protocols + choice clarified
-│   ├── bridges/ ✅                 # Threading system with solution seeds
-│   └── FULL_ASSEMBLY_v1.md ✅      # Complete integrated document
-├── DILUTED/ 🔄 PENDING            # Publishable version (to be created)
-├── _ARSENAL/ ✅ LOADED            # Citations and defensive positions
-├── _ADMIN/ ✅ OPERATIONAL         # Revolution tracking completed
-└── _CORE/ ✅ ESTABLISHED          # Source materials archived
+├── VENOM/ ✅                       # Revolutionary manuscript (41 files, ~55k words)
+│   ├── 00_introduction/            # Nuclear opening + thesis
+│   ├── 01_literature_review/       # Academic judo
+│   ├── 02_theoretical_framework/   # Greek + Cynefin + Collins
+│   ├── 03_case_studies/            # Guild + Duolingo + Bologna
+│   ├── 03b_confession_literature/  # Academic self-incrimination
+│   ├── 04_phase_two_revelation/    # Cognitive transfer evidence
+│   ├── 05_reconstruction/          # Sphere protocols
+│   ├── 06_conclusion/              # Revolutionary conclusion
+│   ├── 07_actionable_protocols/    # Implementation frameworks
+│   ├── bridges/                    # Threading system (5 bridges)
+│   ├── seeds/                      # Solution seeds
+│   └── FULL_ASSEMBLY_*.md          # Complete integrated documents
+│
+├── cognitive-devolution-vault/ 🔧  # PUBLICATION ENGINE
+│   ├── 00-manuscript/              # 12 ordered sections (~6k words)
+│   │   ├── 00-frontmatter.md
+│   │   ├── 01-preface.md
+│   │   ├── 02-introduction.md
+│   │   ├── 03-greek-inheritance.md
+│   │   ├── 04-architecture-extraction.md
+│   │   ├── 05-confession-literature.md
+│   │   ├── 06-llm-architecture.md
+│   │   ├── 07-cynefin-diagnosis.md
+│   │   ├── 08-guild-precedent.md
+│   │   ├── 09-reconstruction-protocols.md
+│   │   ├── 10-conclusion.md
+│   │   └── 99-references.md
+│   ├── 01-assets/                  # Figures and images
+│   ├── 02-templates/               # Markdown templates
+│   ├── 03-output/                  # Generated PDFs
+│   ├── 04-pandoc/                  # Build configuration
+│   │   ├── templates/academic.latex
+│   │   ├── bibliography.bib
+│   │   ├── chicago-author-date.csl
+│   │   └── metadata.yaml
+│   └── 05-scripts/                 # Build automation
+│       ├── build-paper.sh          # Main build script
+│       ├── merge-sections.py       # Python merger
+│       └── merged-paper.md         # Intermediate output
+│
+├── _ADMIN/ ✅                      # Project management
+├── _CORE/ ✅                       # Source materials
+├── _ARSENAL/ ✅                    # Citations and defense
+├── _AGENTS/ ✅                     # Agent personalities
+└── DILUTED/ ⏳                     # Future: academically safe version
 ```
 
-## 🎯 FINAL METRICS
+## Building the Paper 🔧
 
+```bash
+cd cognitive-devolution-vault/05-scripts
+./build-paper.sh
+```
+
+Output: `cognitive-devolution-vault/03-output/cognitive-devolution-YYYYMMDD.pdf`
+
+**Dependencies**: Pandoc 2.19+, XeLaTeX (from TeX Live/MiKTeX), Python 3.8+
+
+## 🎯 PROJECT METRICS
+
+### Phase One Metrics ✅
 | Metric | Target | Achieved | Status |
 |--------|--------|----------|---------|
-| **Word Count (VENOM)** | 15,000 | **22,487** | ✅ **149.9%** |
+| **Word Count (VENOM)** | 15,000 | **~55,000** | ✅ **367%** |
 | **Integration Protocols** | 10 | **10** | ✅ **100%** |
-| **Citations Integrated** | 70 | **70+** | ✅ **100%+** |
+| **Citations** | 70 | **70+** | ✅ **100%+** |
 | **Revolutionary Integrity** | High | **Maximum** | ✅ **100%** |
-| **Threading Architecture** | Planned | **Deployed** | ✅ **Complete** |
-| **Practical Protocols** | Conceptual | **Operational** | ✅ **Ready** |
+| **Threading System** | Planned | **Deployed** | ✅ **Complete** |
+
+### Phase Two Metrics 🔧
+| Component | Status | Progress |
+|-----------|--------|----------|
+| **Vault Structure** | ✅ Complete | 100% |
+| **Build Pipeline** | ✅ Operational | 100% |
+| **Manuscript Sections** | 🔧 Drafted | 60% |
+| **Content Migration** | 🔧 In Progress | 40% |
+| **Citation Integration** | 🔧 In Progress | 50% |
+| **LaTeX Refinement** | 🔧 Fine-tuning | 70% |
+| **First Full PDF** | ⏳ Pending | 0% |
 
 ## The Revolutionary Architecture
 
@@ -161,18 +228,24 @@ We trained biological AI systems and called it education. We documented the prog
 
 Certain territories remain forever unconquerable. Certain capabilities resist extraction. Certain communities maintain sovereignty despite systematic pressure.
 
-## Next Phase: Publication Strategy
+## Current Phase Two Focus 🔧
 
-- **DILUTED Version Development**: Academic publication preparation
-- **Journal Targeting**: Strategic publication venues identified
-- **Defense Protocols**: Reviewer response strategies prepared
-- **Cultural Influence**: Broader movement integration planning
+**Primary Tasks**:
+1. **Content Migration**: Selectively merge VENOM's 55k words into vault's 12 sections
+2. **Citation Integration**: Transfer bibliography from VENOM to vault's BibTeX system
+3. **LaTeX Refinement**: Perfect academic formatting for journal submission
+4. **Full PDF Generation**: First complete build with integrated content
+5. **DILUTED Creation**: Strategic academic safety wrapper
 
-## The Three Conspirators (Mission Complete)
+**Workflow**: VENOM (raw power) → Vault (refinement) → PDF (build) → DILUTED (safety) → Publication
 
-- **KHAOS Alchemist**: Revolutionary theorist and pattern synthesis ✅
-- **Dr. Prudence**: Academic legitimacy and citation integration ✅  
-- **Chronos (Admin from Hell)**: Documentation obsessive and project coordination ✅
+**Timeline**: Active development for polished academic submission
+
+## The Three Conspirators
+
+- **KHAOS Alchemist**: Revolutionary theorist and pattern synthesis (Phase One ✅ | Phase Two 🔧)
+- **Dr. Prudence**: Academic legitimacy and citation integration (Phase One ✅ | Phase Two 🔧)
+- **Chronos (Admin from Hell)**: Documentation obsessive and project coordination (Always Active 📊)
 
 ---
 
