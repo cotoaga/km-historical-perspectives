@@ -1,12 +1,17 @@
 % Academic Paper Template for Cognitive Devolution Paper
 \documentclass[11pt,letterpaper]{article}
 \usepackage[margin=1in]{geometry}
-\usepackage{libertinus}
+\usepackage{mathptmx} % Times-like font, widely available
+\usepackage[T1]{fontenc}
 \usepackage{fancyhdr}
 \usepackage{setspace}
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage[hidelinks]{hyperref}
+
+% Fix for pandoc tightlist
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 \pagestyle{fancy}
 \fancyhead[L]{$title-meta$}
@@ -19,10 +24,7 @@
 \setlength{\parskip}{0pt}
 
 $if(title)$
-\title{$title$}
-$endif$
-$if(subtitle)$
-\subtitle{$subtitle$}
+\title{$title$$if(subtitle)$: $subtitle$$endif$}
 $endif$
 $if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
