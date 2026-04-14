@@ -16,4 +16,4 @@ Dave Snowden, whose work on complexity and sense-making has profoundly influence
 If this position makes you skeptical, good. Skepticism is the appropriate response to anyone claiming to see what insiders cannot. But I ask you to consider: perhaps it takes someone who chose pixels over peer review in 1995, who learned theory through practice rather than practice through theory, to recognize when our cognitive architecture has been colonized by its own tools.
 This paper proceeds with full acknowledgment of its unconventional origins. But then again, as Kuhn reminds us, convention has never been revolution's starting point.
 
-¹ Bhabha, H. K. (1994). The Location of Culture. Routledge.RetryClaude can make mistakes. Please double-check responses.ResearchKNOWLEDGE VECTORIZATION ACADEMIC MANUSCRIPT Opus 4.1
+¹ Bhabha, H. K. (1994). The Location of Culture. Routledge.Retry
